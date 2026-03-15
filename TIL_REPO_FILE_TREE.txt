@@ -1,0 +1,10 @@
+/home/claude/til/
+|-- LICENSE
+|-- README.md
+|-- main.py
+|-- mcp-modelcontextprotocol
+|   |-- mcp-client.md
+|   `-- mcp-client.py
+`-- pyproject.toml
+
+2 directories, 6 files
